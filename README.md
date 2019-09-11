@@ -1,2 +1,2 @@
 # lalo
-lazy load
+lazy load library v1.0.0
